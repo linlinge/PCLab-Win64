@@ -1,0 +1,1 @@
+This is a template project for qt,opengl,vcglib
